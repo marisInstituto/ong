@@ -13,7 +13,7 @@ body {
 }
 
 .bg-img {
-    background-image: url("/img2/cabecalho03.jpeg");
+    background-image: url("https://marisinstituto.github.io/ong/img2/cabecalho03.jpeg");
     min-height: 180px;
     max-height: fit-content;
     margin-left: 20px;
