@@ -1,0 +1,55 @@
+/* Vector 3 */
+
+
+position: absolute;
+width: 1257.54px;
+height: 289px;
+left: -1px;
+top: 2167px;
+
+background: #6F2A86;
+
+
+/* Vector 4 */
+
+
+position: absolute;
+width: 311px;
+height: 312px;
+left: 462px;
+top: 2376px;
+
+border: 10px solid #000000;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 432px;
+height: 73px;
+left: 418px;
+top: 2567px;
+
+background: #6F2A86;
+
+
+/* MISSAO */
+
+
+position:absolute 
+width:332px
+height: 107px
+left:468px
+top:2544px;
+
+font-family:'Playfair Display'
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 107px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;

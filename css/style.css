@@ -1,0 +1,94 @@
+header{
+   width: auto;
+}
+
+body {
+    background-color: #F7F8F9;
+}
+
+
+.Image_desigualdade{
+    background: url(../img/inclusao.jpg);
+    width: 100%;
+    height: 350px;
+}
+.imagemDeisgualdade{
+    left: 40px;
+    width: 560px;
+    height: 689px;
+
+}
+
+.msn_desigualdade{
+    text-align: center;
+    font-size: 43px;
+    color: #FFF0F0;
+    margin-left: auto;
+      
+       
+}
+
+.h1{
+    padding: 80px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    
+}
+
+.paragrafo1{
+    
+    width: 623px;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+    left: 614px;
+}
+.paragrafo2{
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+    left: 40px;
+}
+.missao{
+    top: auto;
+}
+
+.missaoTexto{
+    text-align: center;
+    font-size: 25px;    
+    position: absolute;
+    width: 852px;
+    height: 502px;
+    left: 300px;    
+    top: auto;
+    display: inline-block;    
+   }
+
+   .imgLateral{
+    position: absolute;
+    width: 380px;
+    height: 270px;
+    left: 139px;
+    top: 3420px;
+   }
+
+   .imgLateral1{
+    position: absolute;
+    width: 380px;
+    height: 270px;
+    left: 739px;
+    top: 3432px;
+
+   }
+
+ .imgMissao1{
+    width: 380px;
+    height: 270px;
+    left: 139px;
+    top: 3420px;
+ }

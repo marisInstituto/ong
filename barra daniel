@@ -1,0 +1,22 @@
+    <div class="container-fluid ms-2">
+       <div class="navbar-dark bg-dark  row text-white " style="width: 100%;">
+          <div class="col-4">
+              <p class="text-uppercase" id="home">
+                 <br>
+                FALE COM A GENTE: <a href=""> (11) 9163-96363 </a> <br>   
+                E-mail: <a href=""> institutosocial.maris@gmail.com </a>
+              </p>
+          </div>
+          <div class="col-4 text-left">
+              <p class="text-uppercase">
+                
+              </p>
+          </div>
+ 
+        </div>
+    </div> 
+    <div class="col-4 text-left">
+      <p>
+        &nbsp;
+      </p>
+  </div>

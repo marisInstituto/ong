@@ -1,0 +1,50 @@
+body {
+    width: 120%;
+    color: white;
+    padding: 30px;
+    background-image: linear-gradient(to top, white, #4c6c81);
+}
+
+
+.textoimg1 {
+    position:relative;
+    width: 623px;
+    height: 680px;
+    left: 569px;
+    top: 978px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.textoimg2 {
+    position: absolute;
+    width: 1103px;
+    height: 321px;
+    left: 40px;
+    top: 1669px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+
+}
+
+.quemsomos {
+    position: absolute;
+    width: 289px;
+    height: 60px;
+    left: 520px;
+    top: 769px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+}
